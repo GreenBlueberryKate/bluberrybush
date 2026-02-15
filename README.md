@@ -67,24 +67,7 @@ This repository is intentionally iterative.
 
 Not every notebook is perfect — and that’s the point.
 
-Bluberrybush grows alongside my skills:
-learning publicly, improving continuously, and building a portfolio rooted in curiosity.
-
-👩‍💻 About Me
-
-Hi — I'm Kate.
-
-A self-taught data analyst who loves uncovering patterns, building models, and translating complex datasets into understandable stories.
-
-I’m especially interested in:
-
-Business analytics
-
-Predictive modeling
-
-Data visualization
-
-Real-world problem solving
+Bluberrybush grows alongside my skills: learning publicly, improving continuously, and building a portfolio rooted in curiosity.
 
 ⭐ Future Plans
 
